@@ -1,4 +1,45 @@
-MIT License
+COPYRIGHT NOTICE
+================
+
+All content, code, documentation, and materials in the Thalos Prime 
+organization repositories are protected by copyright.
+
+Copyright Owner:
+----------------
+Tony Ray Macier III
+
+Organization:
+-------------
+Thalos Prime
+
+Copyright Year:
+---------------
+2026 and onwards
+
+All Rights Reserved:
+--------------------
+All rights to the intellectual property, source code, documentation, 
+designs, and any other materials created within or for the Thalos Prime 
+organization are exclusively owned by Tony Ray Macier III.
+
+Unless otherwise specified in individual repository LICENSE files, all 
+materials are proprietary and confidential. Unauthorized copying, 
+distribution, modification, public display, or public performance of 
+these materials is strictly prohibited without explicit written 
+permission from the copyright owner.
+
+Contact:
+--------
+For licensing inquiries, permissions, or other copyright-related 
+questions, please contact the copyright owner through the Thalos Prime 
+organization channels on GitHub.
+
+Legal Notice:
+-------------
+This copyright notice applies to all repositories, projects, code, 
+documentation, and materials within the ThalosPrimeCoding organization 
+on GitHub, unless explicitly stated otherwise in individual files or 
+repositories.MIT License
 
 Copyright (c) 2026 Tony Ray Macier III
 Thalos Prime Organization
